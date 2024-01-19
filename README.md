@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hungdu2k4
 - 🙈 Age :19
-- 👀 I’m interested in programming languages ​​like javascript
+- 👀 I’m interested in programming languages ​​like Javascript
 - 🌱 I Just Learned Programming
 - 💞️ I Like Coding Very Much <3
